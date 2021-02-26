@@ -1,0 +1,12 @@
+body {
+  font-family: Verdana;
+  padding: 1rem;
+}
+
+.selected {
+  background-color: dodgerBlue;
+}
+
+.selected a {
+  color: white;
+}
